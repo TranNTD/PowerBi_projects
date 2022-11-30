@@ -1,6 +1,6 @@
 # PowerBi_projects
 Projects is done with PowerBi desktop.
-Data source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+Data source: UCI: https://archive.ics.uci.edu/ml/index.php
 
 Report of Default Credit Project: https://app.powerbi.com/groups/me/reports/e5de6ee9-67ed-4317-80d8-6dbbf412efd7/ReportSection
 
